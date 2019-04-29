@@ -1,5 +1,5 @@
 // Kullanıcı tarafından programa argüman olarak akrep ve yelkovan değerleri alınacaktır. Alınan bu değerler arasındaki açıyı hesaplayacak olan c programı. (Örn: 17 00 için Aradaki açı: 120)
-
+// By the user, the values of the scorpion and minute hands will be taken as an argument to the program. The c program to calculate the angle between these values. (Ex: Angle of 120 for 17 00)
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
