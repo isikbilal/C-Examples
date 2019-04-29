@@ -1,5 +1,5 @@
 //Kullanıcı tarafından girilecek olan bir sayıyı okuyan c programı (Örn: 173456 = Yüz yetmiş üç bin dört yüz elli altı)
-//The c program that reads a number to be entered by the user 
+//The c program that reads a number to be entered by the user (Ex: 173456 = One hundred and seventy three thousand four hundred and fifty six)
 
 #include<stdio.h>
 #include<string.h>
