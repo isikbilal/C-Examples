@@ -1,6 +1,9 @@
 // Programa kullanıcı tarafından 3 argüman girilecektir. 1. argüman aranacak ifadeyi, 2. argüman değiştirilecek yeni ifadeyi, 3. argüman ise ifadenin aranacağı dosyanın ismidir.
 // Eğer aranan ifade dosyada bulunuyorsa ifadenin bulunduğu konumu veya konumları (kaçıncı karakter) yeni ifade ile değiştirecek, eğer ifade bulunmaz ise buna dair uygun bir mesaj gösterecek olan c programı.
 
+// 3 arguments will be entered into the program by the user. The first argument is the expression to search, the second argument is the new expression to be changed, and the 3rd argument is the name of the file to call the expression.
+// If the searched expression is found in the file, it will replace the position or the position of the expression with the new expression, if there is no expression, the c program will display a corresponding message.
+
 #include<stdio.h>
 #include<string.h>
 
